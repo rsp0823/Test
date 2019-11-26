@@ -1,0 +1,1 @@
+{"type":"sap.web","builders":{"configs":{}},"runners":{"configs":{}},"attributes":{"sap.watt.common.setting":["{\"beautifier\":{\"keep_array_indentation\":true,\"break_chained_methods\":true,\"space_before_conditional\":true,\"unescape_strings\":true,\"tab_size\":\"1\",\"max_preserve_newlines\":\"2\",\"wrap_line_length\":\"140\",\"brace_style\":\"collapse\"}}"]},"mixinTypes":[]}
